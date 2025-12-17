@@ -1,0 +1,10 @@
+{
+    "target_path": "C:\\Perl\\site\\lib\\TpvScripts\\Scripts\\Programs\\JobList\\RunJobList\\RunJobListApp.pl",
+    "interpreter": "perl",
+    "interval_value": 1,
+    "interval_unit": "Minutes",
+    "keywords": [
+        "Joblist",
+        "JoblistA4"
+    ]
+}
